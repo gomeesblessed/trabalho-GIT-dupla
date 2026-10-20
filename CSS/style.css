@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial;
+    background-color: #eaf5ed;
+    margin: 0;
+}
+
+.container {
+    background-color: #d3ecc6;
+    height: 150px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.logo img {
+    width: 150px;
+    height: 150px;
+    background-color: #d3ecc6;
+    margin-left: 10px;
+    display: flex;
+}
+
+.link {
+
+    width: 400px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.link a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.botao {
+    width: 120px;
+    height: 40px;
+    background-color: #d3ecc6;
+    box-shadow: 10px 10px 10px rgb(rgb(0, 0, 0));
+    border-radius: 25px;
+    font-size: 15px;
+    align-items: center;
+    margin-right: 50px;
+
+}
+
+body {
+   background-color: rgb(252, 242, 242);
+
+}
